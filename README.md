@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Sharma</h1>
-<h3 align="center">Aspiring Software Developer</h3>
-
+<a href="https://git.io/typing-svg" style="text-align: center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Sharma+;Aspiring+Software+Developer" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsharma2822&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsharma2822" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharsharma2822" alt="tusharsharma2822" /></a> </p>
