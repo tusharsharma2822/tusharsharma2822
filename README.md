@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharsharma2822" alt="tusharsharma2822" /></a> </p>
 
-- 🔭 I’m currently working on **Nexin(Next Innovation)**
+- 🔭 I’m currently working on **Automated Brain Tumor Detection and Segmentation using MRI Images**
 
 - 📫 How to reach me **tusharsharma2822@gmail.com**
 
